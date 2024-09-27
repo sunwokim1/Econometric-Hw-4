@@ -3,7 +3,7 @@
 title: 'Homework #4'
 output: github_document
 ---
- ### Due 8am EST Friday Sept 20, 2024 
+ ### Due 8am EST Friday Sept 27, 2024 
  ### Econ B2000, MA Econometrics
    
 load("/Users/jaydenkim/Desktop/Econometrics/Household_Pulse_data_ph4c2.RData")
